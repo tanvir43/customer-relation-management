@@ -40,6 +40,8 @@ INSTALLED_APPS = [
 
     # user defined apps
     'accounts',
+    'customers',
+    'products',
 ]
 
 MIDDLEWARE = [
